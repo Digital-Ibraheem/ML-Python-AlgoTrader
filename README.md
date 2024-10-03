@@ -1,4 +1,7 @@
-# Stock Market Analysis and Portfolio Optimization
+# Machine Learning Algorithmic Trader with Python
+
+![image](https://github.com/user-attachments/assets/ca9e4c77-539f-46a1-a9f3-3972190831f4)
+
 
 ## Overview
 This project performs stock market analysis using historical stock data, technical indicators, and machine learning techniques to optimize a portfolio of stocks. The goal is to identify the best-performing stocks based on various criteria and create an optimized portfolio that maximizes returns while managing risk.
