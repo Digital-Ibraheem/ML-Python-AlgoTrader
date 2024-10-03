@@ -1,4 +1,4 @@
-# Machine Learning Algorithmic Trader with Python
+# Unsupervised Machine Learning Trading Strategy with Python
 
 ![image](https://github.com/user-attachments/assets/ca9e4c77-539f-46a1-a9f3-3972190831f4)
 
